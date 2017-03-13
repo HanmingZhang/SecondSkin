@@ -1,0 +1,33 @@
+﻿  plugin_main.cpp
+d:\vs2015_projects\secondskin\src\SecondSkin.h(64): warning C4099: 'EDAnchor': type name first seen using 'class' now seen using 'struct'
+  d:\vs2015_projects\secondskin\src\SecondSkin.h(63): note: see declaration of 'EDAnchor'
+  SecondSkin.cpp
+d:\vs2015_projects\secondskin\src\SecondSkin.h(64): warning C4099: 'EDAnchor': type name first seen using 'class' now seen using 'struct'
+  d:\vs2015_projects\secondskin\src\SecondSkin.h(63): note: see declaration of 'EDAnchor'
+src\SecondSkin.cpp(306): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\SecondSkin.cpp(345): warning C4838: conversion from 'const double' to 'float' requires a narrowing conversion
+src\SecondSkin.cpp(345): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+src\SecondSkin.cpp(683): warning C4838: conversion from 'const short' to 'float' requires a narrowing conversion
+src\SecondSkin.cpp(700): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\SecondSkin.cpp(782): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\SecondSkin.cpp(789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\SecondSkin.cpp(797): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\SecondSkin.cpp(798): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\SecondSkin.cpp(898): warning C4018: '<': signed/unsigned mismatch
+src\SecondSkin.cpp(900): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\SecondSkin.cpp(901): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\SecondSkin.cpp(902): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\SecondSkin.cpp(906): warning C4018: '<': signed/unsigned mismatch
+  EDMath.cpp
+  Generating Code...
+d:\vs2015_projects\secondskin\src\secondskin.cpp(610): warning C4715: 'SecondSkin::is_normal': not all control paths return a value
+     Creating library x64\Debug\SecondSkin.lib and object x64\Debug\SecondSkin.exp
+  SecondSkin.vcxproj -> D:\VS2015_Projects\SecondSkin\x64\Debug\SecondSkin.mll
+  SecondSkin.vcxproj -> x64\Debug\SecondSkin.pdb (Full PDB)
+  D:\VS2015_Projects\SecondSkin\content\CreateUI.mel
+  D:\VS2015_Projects\SecondSkin\content\DeleteUI.mel
+  D:\VS2015_Projects\SecondSkin\content\icon\contour.xpm
+  D:\VS2015_Projects\SecondSkin\content\icon\normal.xpm
+  D:\VS2015_Projects\SecondSkin\content\icon\projection.xpm
+  D:\VS2015_Projects\SecondSkin\content\icon\tangent.xpm
+  6 File(s) copied
